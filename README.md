@@ -9,10 +9,6 @@
 
 - Feel free to ask me about **How I got into coding, what advice I would give or if you want me to teach what I know so far**
 
-- How to reach me **discord: sakurafyx**
-
-- Fun fact **I have Autism and ADHD 🤷‍♂️**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/Vq9dKQek6Q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Vq9dKQek6Q" height="30" width="40" /></a>
